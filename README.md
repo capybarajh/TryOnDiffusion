@@ -21,10 +21,10 @@ The code was developed and tested on the following environment:
 To get started with training examples, first clone this repository by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/capybarajh/Tryondiffusion
+git clone https://github.com/capybarajh/TryOnDiffusion
 
 
-cd Tryondiffusion
+cd TryOnDiffusion
 ```
 This will clone the repository and navigate you into the project directory.
 
