@@ -3,7 +3,7 @@
 ## Introduction
 This repository is an attempt to implement the Tryondiffusion model. For more details, visit the [official Tryondiffusion website](https://tryondiffusion.github.io/).
 
-![image](https://github.com/Mutoy-choi/Tryondiffusion/assets/87027571/a3b9b53c-f6a3-4a52-8c3d-e7c26d50c55e)
+![image](https://github.com/capybarajh/Tryondiffusion/assets/87027571/a3b9b53c-f6a3-4a52-8c3d-e7c26d50c55e)
 
 ## Environment
 
